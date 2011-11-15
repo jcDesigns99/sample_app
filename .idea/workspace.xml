@@ -84,7 +84,7 @@
       <file leaf-file-name="_stylesheets.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="219" selection-end="219" vertical-scroll-proportion="0.1030303">
+            <state line="6" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.15454546">
               <folding />
             </state>
           </provider>
@@ -780,7 +780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="219" selection-end="219" vertical-scroll-proportion="0.1030303">
+        <state line="6" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.15454546">
           <folding />
         </state>
       </provider>
